@@ -1,0 +1,24 @@
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+designation: Software Engineer
+company:
+  name: Independent
+  url: "https://www.github.com/erikhowe"
+summary: "I'm a passionate, ambitious and determined software engineer with excellent communication and problem solving skills"
+
+socialLinks:
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "erikhow.dev@gmail.com"
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://www.github.com/erikhowe"
+  - name: Twitter
+    icon: "fab fa-twitter"
+    url: "https://www.twiter.com/erikhowe24"

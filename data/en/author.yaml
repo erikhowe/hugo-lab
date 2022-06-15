@@ -1,0 +1,13 @@
+# name: "Erik Howe"
+# nickname: "Erik"
+# image: "images/profile.jpg"
+
+greeting: "My name is Erik and I enjoy coding with Java and Kotlin. When I'm not writing code, I'm writing about writing code."
+
+contactInfo:
+  email: "erikhow.dev@gmail.com"
+
+summary:
+  - Java and Kotlin Developer
+  - Object Oriented and Functional
+  - Agile and Continuous
